@@ -52,7 +52,7 @@ nav .nav-menu img{
     height: 40px;
 }
 main{
-    margin-top: 150px;
+    margin-top: 70px;
     text-align: center;
 
 }
@@ -60,7 +60,7 @@ main{
 main .logo{
     width: 830px;
     margin: 0 auto;
-    margin-bottom: 5px;    
+    margin-bottom: 1px;    
 
 }
 
@@ -70,13 +70,13 @@ main .logo img{
 }
 
 main .input{
-    width: 530px;
-    margin: 0 auto;
+    width: 430px;
+    margin: 0px auto;
     margin-bottom: 5px;
 }
 
 main .input_contenedor{
-    width: 525px;
+    width: 240px;
     border-radius: 100px;
     border: 1px solid black;
     display: flex;
@@ -86,14 +86,14 @@ main .input_contenedor{
 }
 
 main .input{
-    width: 450px;
-    height: 40px;
+    width: 420px;
+    height: 30px;
     border: none;
     outline: none;
 }
 
 main .input_contenedor:hover{
-    box-shadow:0 1px 6px  grey;
+    box-shadow:0 1px 6px  rgb(10, 10, 10);
     border-color: #dfe1e500;
 }
 
